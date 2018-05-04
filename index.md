@@ -3,8 +3,6 @@ layout: soon
 permalink: /
 ---
 
-# Coming soon
+# Teşekkürler!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut purus.
-Some call to action.
-
+Projemiz yeterli ilgi görmediğinden ve barındırma hizmetimizin süresi dolduğundan dolayı projemiz rafa kaldırılmıştır. İnternet sitemizin yayında olduğu süre boyunca yanımızda olan tüm ziyaretçilerimize ve öğrencilerimize teşekkür ederiz. 
